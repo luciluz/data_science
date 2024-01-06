@@ -8,4 +8,4 @@ Calidad y visualización de datos:
 - [Operadores Orgánicos en Argentina](proyectos/operadores_organicos_arg)
 
 Implementación de modelos de ML:
-- [Reconocimiento de patrones MNIST](proyectos/mnist)
+- [Clasificación y validación cruzada MNIST](proyectos/mnist)

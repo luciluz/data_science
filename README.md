@@ -1,6 +1,6 @@
 # Data Science
 
-Este repositorio fue creado para tener un lugar donde subir proyectos relacionados a la ciencia de datos.
+Este es un espacio en el que subiré cosas relacionadas a las ciencias de datos.
 
 ### Proyectos subidos:
 

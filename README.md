@@ -1,6 +1,6 @@
 # Data Science
 
-Este es un espacio en el que subiré cosas relacionadas a las ciencias de datos.
+Este es un espacio en el que subiré cosas relacionadas con Ciencia de Datos.
 
 ### Proyectos subidos:
 

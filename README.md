@@ -12,6 +12,10 @@ Implementación de modelos de ML:
 - [Clasificación y validación cruzada MNIST](proyectos/mnist)  
     **Tecnologías usadas:** Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 
+Programación Lineal Entera:
+- [Trabajo Práctico PLE - Asignación de cuadrillas](https://github.com/luciluz/tpinvop)  
+   **Tecnologías usadas:** Python, CPLEX
+
 ## Competiciones
 
 ### Kaggle

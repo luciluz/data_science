@@ -2,7 +2,7 @@
 
 En este trabajo, se analizaron datos abiertos correspondientes al **Padrón de
 Operadores Orgánicos Certificados de la República Argentina** y a la **mediana del salario
-bruto de los trabajadores registrados del sector privado** los cuales son datos públicos que se pueden obtener [aqui](datos.gob.ar).
+bruto de los trabajadores registrados del sector privado** los cuales son datos públicos que se pueden obtener en la página de [Datos Argentina](https://datos.gob.ar).
 El objetivo del análisis fue
 caracterizar la relación entre el desarrollo de la actividad según la provincia y el salario
 percibido por los trabajadores del sector orgánico. Para ello, se incorporaron tres fuentes de
